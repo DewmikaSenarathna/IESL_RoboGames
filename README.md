@@ -1,7 +1,6 @@
 🚀 Thrilled to Share Our Robotics Journey! 🤖🎯
 
 We, Team Phoenix, recently participated in the IESL RoboGames 2024 university category, where we tackled a robotics simulation challenge using Webots and the E-puck robot 🤖. It was an incredible experience that pushed our coding, problem-solving, and simulation skills to the next level!
-
 🔹 Our Mission: Develop an arena simulation and program the E-puck robot to navigate a grid, identifying colored walls in a predefined sequence.
 🔹 Tech Stack: Python for coding, Webots for simulation.
 🔹 Key Skills Gained:

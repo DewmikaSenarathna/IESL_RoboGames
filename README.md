@@ -5,6 +5,7 @@ We, Team Phoenix, recently participated in the IESL RoboGames 2024 university ca
 🔹 Our Mission: Develop an arena simulation and program the E-puck robot to navigate a grid, identifying colored walls in a predefined sequence.
 🔹 Tech Stack: Python for coding, Webots for simulation.
 🔹 Key Skills Gained:
+
 ✅ Robotics Simulation & AI-based path planning 🛤️
 ✅ Python Programming for autonomous navigation 🧭
 ✅ Team Collaboration in problem-solving and debugging 🛠️
